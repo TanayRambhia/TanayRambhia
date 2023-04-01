@@ -18,6 +18,6 @@ An ardent, committed and hardworking graduate.<br>Keen, intense interest in the 
 [![](https://visitcount.itsvg.in/api?id=TanayRambhia&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TanayRambhia&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
