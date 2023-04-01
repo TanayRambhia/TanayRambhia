@@ -15,30 +15,6 @@ An ardent, committed and hardworking graduate.<br>Keen, intense interest in the 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TanayRambhia&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-name: GitHub-Profile-3D-Contrib
-
-on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated"
-          git push
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TanayRambhia&icon=0&color=0)](https://visitcount.itsvg.in)
