@@ -15,9 +15,7 @@ An ardent, committed and hardworking graduate.<br>Keen, intense interest in the 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TanayRambhia&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-[![](https://visitcount.itsvg.in/api?id=TanayRambhia&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
-
 ---
-
+[![](https://visitcount.itsvg.in/api?id=TanayRambhia&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
