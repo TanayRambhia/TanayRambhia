@@ -18,7 +18,7 @@ An ardent, committed and hardworking graduate.<br>Keen, intense interest in the 
 # :beginner: Holopin Badges
 [![An image of @tanayrambhia's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanayrambhia)](https://holopin.io/@tanayrambhia)
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=TanayRambhia/TanayRambhia)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=TanayRambhia&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
