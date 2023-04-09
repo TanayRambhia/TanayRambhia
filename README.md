@@ -20,8 +20,9 @@ An ardent, committed and hardworking graduate.<br>Keen, intense interest in the 
 
 [![TanayRambhia's GitHub | Stats](https://stats.quine.sh/TanayRambhia/github?theme=light)](https://quine.sh)
 
-
 [![TanayRambhia's GitHub | Languages Over Time](https://stats.quine.sh/TanayRambhia/languages-over-time?theme=dark)](https://quine.sh)
+
+[![TanayRambhia's GitHub | Topics Over Time](https://stats.quine.sh/TanayRambhia/topics-over-time?theme=dark)](https://quine.sh)
 ---
 [![](https://visitcount.itsvg.in/api?id=TanayRambhia&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
