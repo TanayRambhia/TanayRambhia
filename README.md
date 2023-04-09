@@ -19,6 +19,9 @@ An ardent, committed and hardworking graduate.<br>Keen, intense interest in the 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TanayRambhia&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
 const anmol = {
     pronouns: "He" | "Him",
     code: ["Javascript", "HTML", "CSS", "Python", "Java", "PHP", "C" , "C++"],
@@ -37,6 +40,7 @@ const anmol = {
     currentFocus: "No Focus point at this time",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
+```
 
 # :beginner: Holopin Badges
 [![An image of @tanayrambhia's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanayrambhia)](https://holopin.io/@tanayrambhia)
