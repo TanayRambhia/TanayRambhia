@@ -1,8 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Tanay Rambhia! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Senior Software Engineer at <a href="https://www.oneorigin.us/">OneOrigin
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+
 
 # 💫 About Me:
 An ardent, committed and hardworking graduate.<br>Keen, intense interest in the subjects of Information Technology.<br>Seeking opportunities to enhance my knowledge and implement the learned skills in that field.<br>In pursuit of becoming a Cyber Security to bring about a positive change.<br>
