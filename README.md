@@ -19,6 +19,25 @@ An ardent, committed and hardworking graduate.<br>Keen, intense interest in the 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TanayRambhia&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "HTML", "CSS", "Python", "Java", "PHP", "C" , "C++"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        mobileApp: {
+            native: ["Flutter"]
+        },
+        devOps: ["Docker🐳"],
+        databases: ["Zampp", "MySql"],
+        misc: ["php"]
+    },
+    currentFocus: "No Focus point at this time",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+
 # :beginner: Holopin Badges
 [![An image of @tanayrambhia's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanayrambhia)](https://holopin.io/@tanayrambhia)
 
