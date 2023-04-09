@@ -36,7 +36,9 @@ const anmol = {
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TanayRambhia&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TanayRambhia&theme=dark&hide_border=false)<br/>
+[![TanayRambhia's GitHub | Stats](https://stats.quine.sh/TanayRambhia/github?theme=light)](https://quine.sh)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanayRambhia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![TanayRambhia's GitHub | Languages Over Time](https://stats.quine.sh/TanayRambhia/languages-over-time?theme=dark)](https://quine.sh)
 
 
 ## 🏆 GitHub Trophies
@@ -45,9 +47,7 @@ const anmol = {
 # :beginner: Holopin Badges
 [![An image of @tanayrambhia's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanayrambhia)](https://holopin.io/@tanayrambhia)
 
-[![TanayRambhia's GitHub | Stats](https://stats.quine.sh/TanayRambhia/github?theme=light)](https://quine.sh)
 
-[![TanayRambhia's GitHub | Languages Over Time](https://stats.quine.sh/TanayRambhia/languages-over-time?theme=dark)](https://quine.sh)
 ---
 [![](https://visitcount.itsvg.in/api?id=TanayRambhia&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
