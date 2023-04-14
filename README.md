@@ -39,6 +39,7 @@ const anmol = {
 [![TanayRambhia's GitHub | Stats](https://stats.quine.sh/TanayRambhia/github?theme=light)](https://quine.sh) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanayRambhia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
 [![TanayRambhia's GitHub | Languages Over Time](https://stats.quine.sh/TanayRambhia/languages-over-time?theme=dark)](https://quine.sh)
+[![TanayRambhia's GitHub | Topics Over Time](https://stats.quine.sh/TanayRambhia/topics-over-time?theme=dark)](https://quine.sh)
 
 
 ## 🏆 GitHub Trophies
