@@ -5,6 +5,8 @@
 # 💫 About Me:
 An ardent, committed and hardworking graduate.<br>Keen, intense interest in the subjects of Information Technology.<br>Seeking opportunities to enhance my knowledge and implement the learned skills in that field.<br>In pursuit of becoming a Cyber Security to bring about a positive change.<br>
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
