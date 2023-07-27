@@ -50,7 +50,7 @@ const anmol = {
 
 # GitHub Profile 3D Contrib.
 
-![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
+![svg]([https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg](https://raw.githubusercontent.com/TanayRambhia/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg))
 
 [日本語](./docs/README.ja-jp.md) | [Español](./docs/README.es-es.md)
 ---
