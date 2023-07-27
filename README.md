@@ -37,7 +37,7 @@ const anmol = {
 ![](https://github-readme-stats.vercel.app/api?username=TanayRambhia&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TanayRambhia&theme=dark&hide_border=false)
 [![TanayRambhia's GitHub | Stats](https://stats.quine.sh/TanayRambhia/github?theme=light)](https://quine.sh) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanayRambhia&langs_count=8)username=TanayRambhia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanayRambhia&langs_count=8) <br/>
 [![TanayRambhia's GitHub | Languages Over Time](https://stats.quine.sh/TanayRambhia/languages-over-time?theme=dark)](https://quine.sh)
 [![TanayRambhia's GitHub | Topics Over Time](https://stats.quine.sh/TanayRambhia/topics-over-time?theme=dark)](https://quine.sh)
 
