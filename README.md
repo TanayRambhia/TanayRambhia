@@ -48,9 +48,7 @@ const anmol = {
 # :beginner: Holopin Badges
 [![An image of @tanayrambhia's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanayrambhia)](https://holopin.io/@tanayrambhia)
 
-# GitHub Profile Summary
-<img src="![image](https://github.com/TanayRambhia/TanayRambhia/assets/90279296/c175ef37-d7f2-45ad-83f3-38b603c7dca7)
-https://profile-summary-for-github.com/user/TanayRambhia)"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TanayRambhia&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
